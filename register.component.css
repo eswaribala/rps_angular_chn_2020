@@ -1,0 +1,47 @@
+.btn
+{
+  width:10%;
+  margin-left: 43%;
+  font-size: xx-large;
+  color: red;
+  border: 2px solid red;
+
+}
+.form
+{
+  width: 60%;
+
+
+  margin-left: 20%;
+
+}
+.form legend
+{
+  text-align: center;
+  font-size: x-large;
+}
+.form .mat-form-field
+{
+  width:50%;
+
+
+}
+.form button[type=submit]
+{
+  width:20%;
+  margin-bottom: 2%;
+  margin-left: 10%;
+  margin-right: 25%;
+}
+.form button[type=reset]
+{
+  width:20%;
+  margin-bottom: 2%;
+
+}
+.validation
+{
+  margin-left: 20%;
+  color:red;
+  width:70%;
+}
